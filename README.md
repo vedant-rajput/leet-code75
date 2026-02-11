@@ -4,7 +4,7 @@ Welcome to my **LeetCode 75** repository! This project tracks my progress throug
 
 > "The only way to learn a new programming language is by writing programs in it." — Dennis Ritchie
 
-## 🎯 Project Goals
+## 🎯 The Objective
 * **Problem Solving:** Mastering common patterns like Sliding Window, Two Pointers, and Dynamic Programming.
 * **Efficiency:** Aiming for optimal Time and Space complexity in every solution.
 * **Documentation:** Keeping track of logic and "lessons learned" for future interview prep.
