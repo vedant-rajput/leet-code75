@@ -1,4 +1,4 @@
-# 🚀 LeetCode 75: The Grind to Mastery
+# 🚀 LeetCode 75: Grind to Mastery
 
 Welcome to my **LeetCode 75** repository! This project tracks my progress through the curated LeetCode 75 study plan, focusing on mastering essential data structures and algorithms.
 
@@ -12,9 +12,9 @@ Welcome to my **LeetCode 75** repository! This project tracks my progress throug
 ---
 
 ## 🛠️ Tech Stack
-* **Primary Language:** [Insert Language, e.g., Python / Java / C++]
-* **Environment:** LeetCode / VS Code
-* **Goal:** 75 high-quality solutions
+* **Primary Language:** [Python / Java]
+* **Environment:** LeetCode / VS Code / Intelli J / PyCharm
+* **Goal:** 75 high-quality solutions with optimized block of code.
 
 ---
 
